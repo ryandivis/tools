@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DivisTools</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="button_login">Login</string>
+    <string name="title_activity_display_message">Main</string>
+    <string name="display_message_default">Default Message</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Menu Action Strings -->
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_calendar">Calendar</string>
+    
+    <!-- Calendar Strings -->
+    <string name="label_sunday">Sun</string>
+    <string name="label_monday">Mon</string>
+    <string name="label_tuesday">Tue</string>
+    <string name="label_wednesday">Wed</string>
+    <string name="label_thursday">Thu</string>
+    <string name="label_friday">Fri</string>
+    <string name="label_saturday">Sat</string>
+    
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+
+</resources>
